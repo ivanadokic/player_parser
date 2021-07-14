@@ -1,0 +1,15 @@
+current directory: /Users/ivana/Desktop/online_projects/player_parser/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/ivana/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/ivana/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210713-16863-saob9j.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ivana/Desktop/online_projects/player_parser/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/ivana/Desktop/online_projects/player_parser/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/ivana/Desktop/online_projects/player_parser/vendor/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 cruby.bundle ./.gem.20210713-16863-564mg4/skiptrace/internal
