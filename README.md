@@ -58,7 +58,7 @@ Bishop Timothy Male 4/23/1967 Yellow
 Abercrombie Neil Male 2/13/1943 Tan
 
 
-INPUT FILE INFORMATION
+## INPUT FILE INFORMATION
 ======================
 Each file contains one person’s information per line.
 The properties of a person are delimited by the following:
