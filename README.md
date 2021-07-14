@@ -4,7 +4,7 @@
 # WHAT IT DOES:
 This is a Ruby program that makes a single set of players records by parsing data from 3 different record files and then display these records sorted in 3 different ways. A player record consists of a last name, first name, gender, data of birth, and favorite color. A record consists of the following 5 fields: last name, first name, gender, date of birth and favorite color. 
 
-## GOAL:
+### GOAL:
 Using Ruby language, parse the following set of 3 input files
 
 file1:
@@ -89,7 +89,7 @@ Output 3 – sorted by last name, descending
 Ensure that fields are displayed in the following order: last name, first name, gender, date of birth, favorite color.
 Display dates in the format M/D/YYYY.
 
-## HOW TO RUN IT:
+# HOW TO RUN IT:
 1. cd into player_parser
 2. Install the Ruby dependencies `bundle install`
 3. Type 'rake display_records' in terminal to see players output
