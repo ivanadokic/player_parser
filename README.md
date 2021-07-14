@@ -3,7 +3,7 @@
 
 # WHAT IT DOES:
 
-This is a Ruby program that makes a single set of players records by parsing data from 3 different record files and then display these records sorted in 3 different ways. A player record consists of a last name, first name, gender, data of birth, and favorite color. A record consists of the following 5 fields: last name, first name, gender, date of birth and favorite color. 
+This is a Ruby program that makes a single set of players records by parsing data from 3 different record files and then display these records sorted in 3 different ways. A record consists of the following 5 fields: last name, first name, gender, date of birth and favorite color. 
 
 ### GOAL:
 Using Ruby language, parse the following set of 3 input files
